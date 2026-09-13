@@ -19,7 +19,7 @@ Designed specifically for Windows with high attention to visual polish, responsi
 
 ## 🚀 Installation
 
-1. Download **`LaunchDock-Setup.exe`** from [Releases](https://github.com/beingmahdi/LaunchDock/releases).
+1. Download **`LaunchDock-Setup.exe`** from [Releases](https://github.com/beingmahdi/LaunchDock/releases/tag/v1.0.1)
 2. Run the installer.
 3. Choose your desired installation folder (defaults to your local programs directory) and choose whether to create a Desktop shortcut.
 4. Click **Install LaunchDock** and enjoy the showcase presentation while the installation completes.
