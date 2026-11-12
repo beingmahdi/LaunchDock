@@ -13,7 +13,7 @@ Designed specifically for Windows with high attention to visual polish, responsi
 
 ---
 
-## ⬇️ [Download](https://github.com/beingmahdi/LaunchDock/releases/tag/v1.0.1)
+## ⬇️ [Download](https://github.com/beingmahdi/LaunchDock/releases/download/v1.0.2/LaunchDock-Setup-1.0.2.exe)
 
 ---
 
