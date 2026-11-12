@@ -1,3 +1,22 @@
+# ChangeLog for LaunchDock v1.0.3
+
+## New Features
+
+- Added app version tag at bottom-left of Settings page
+
+## Improvements
+
+- Interactive glassmorphic updater UI with real-time download progress
+- Overall performance and responsiveness improvements
+
+## Fixes
+
+- Fixed bottom shadow cut line on Settings modal window
+
+---
+---
+
+
 # ChangeLog for LaunchDock v1.0.2
 
 ## New Features
