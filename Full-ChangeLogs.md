@@ -1,3 +1,20 @@
+# ChangeLog for LaunchDock v1.0.2
+
+## New Features
+
+- Clean Installer UI
+
+## Improvements
+
+- Faster Installation
+
+## Fixes
+
+-
+
+
+
+
 # ChangeLog for LaunchDock v1.0.1
 
 ## New Features
