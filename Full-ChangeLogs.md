@@ -12,7 +12,8 @@
 
 -
 
-
+---
+---
 
 
 # ChangeLog for LaunchDock v1.0.1
