@@ -129,5 +129,5 @@ The uninstaller removes all application files and shortcuts cleanly. Your custom
 ## 👨‍💻 Developer & Credits
 
 **Developed by**: Mahdi Hasan AKA Colonelx  
-**License**: MIT License  
+**License**: Proprietary / End User License Agreement (EULA) (See [LICENSE](LICENSE))  
 **Copyright**: © 2026 Mahdi Hasan AKA Colonelx. All rights reserved.
