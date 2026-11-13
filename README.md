@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 Overview.
 
 **LaunchDock** is a lightweight, unobtrusive desktop dock that rests seamlessly at the top center of your primary screen. It remains as a compact, elegant pill until you hover over it, expanding into a rich, dark glassmorphic command center for all your daily apps, files, folders, and web shortcuts.
 
